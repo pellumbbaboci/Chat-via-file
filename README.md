@@ -6,3 +6,4 @@ be two Processes in our case project. Both of them have the ability to write/rea
 the Chat.Txt. These processes can communicate via this file.
 The Chat (communication is done one-by-one manner) One-by-One synchronization
 and is handled by SIGUSR1 and SIGUSR2 signal usage.
+# Evaluation of this project
